@@ -4,12 +4,11 @@ OS X Realtek ALC283 Onboard Audio
 
 For ALC283/Headphones:
 See https://github.com/toleda/audio_RealtekALC
-Use audio_NUC/BRIX-90_v2.command
+Use audio_NUC-BRIX-90_v2.command
 
 For HD4600 HDMI audio:
 See https://github.com/toleda/audio_8series
-Use [Guide]-NUC-hdmi_audio_(dsdt_or_ssdt)_v2.pdf
-or [Guide]-BRIX-hdmi_audio_(dsdt_or_ssdt)_v2.pdf
+Use [Guide]- NUC-BRIX-hdmi_audio_(dsdt_or_ssdt)_v2.pdf
 
 Requirements
 1. Intel NUC with ALC283
