@@ -2,9 +2,11 @@ audio_ALC283
 ============
 OS X Realtek ALC283 Onboard Audio
 
-For ALC283/Headphones:
+4/23/15 - Mic added, credit: Sebinouse
+
+For ALC283/Mic/Headphones:
 See https://github.com/toleda/audio_RealtekALC
-Use audio_NUC-BRIX-90_v2.command
+Use audio_realtekALC-100.command
 
 For HD4600 HDMI audio:
 See https://github.com/toleda/audio_8series
@@ -23,9 +25,8 @@ Problem Reporting
 3. Copy of IORegistryExplorer or IOJones
 
 Troubleshooting/Post w/attachments 2 and 3, above
-1. Mavericks/10.9
-1a. http://www.tonymacx86.com/audio/112461-mavericks-no-audio-realtek-alc-applehda.html
-1b. http://www.insanelymac.com/forum/topic/292999-mavericks-applehda-hdmi-audio/
+1. http://www.tonymacx86.com/audio/143752-no-audio-devices-realtek-alc-applehda-guide.html#post886726
+2. http://www.insanelymac.com/forum/topic/298819-yosemite-audio-realtek-alc-applehda/
 
 Credit
 THe KiNG 
