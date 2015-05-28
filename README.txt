@@ -2,7 +2,7 @@ audio_ALC283
 ============
 OS X Realtek ALC283 Onboard Audio
 
-4/23/15 - Mic added, credit: Sebinouse
+5/28/15 - Mic added, credit: Sebinouse
 
 For ALC283/Mic/Headphones:
 See https://github.com/toleda/audio_RealtekALC
