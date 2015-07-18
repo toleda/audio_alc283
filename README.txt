@@ -2,19 +2,23 @@ audio_ALC283
 ============
 OS X Realtek ALC283 Onboard Audio
 
-5/28/15 - Mic added, credit: Sebinouse
+7/18/15 - Line In (Mic) and Broadwell support added
 
-For ALC283/Mic/Headphones:
+ALC283/Mic/Headphones:
 See https://github.com/toleda/audio_RealtekALC
-Use audio_realtekALC-100.command
-
-For HD4600 HDMI audio:
-See https://github.com/toleda/audio_8series
-Use [Guide]- NUC-BRIX-hdmi_audio_(dsdt_or_ssdt)_v2.pdf
+Use audio_realtekALC-110...command or audio_cloverALC-110...command
 
 Requirements
 1. Intel NUC with ALC283
 2. Gigabyte BRIX-Gaming with ALC283
+
+Broadwell/HD4600 HDMI audio:
+See https://github.com/toleda/audio_9series
+Use [Guide]- NUC-BRIX-hdmi_audio_(dsdt_or_ssdt)_v3.pdf
+
+Haswell/HD4600 HDMI audio:
+See https://github.com/toleda/audio_8series
+Use [Guide]- NUC-BRIX-hdmi_audio_(dsdt_or_ssdt)_v2.pdf
 
 Realtek ALC283 AppleHDA.kext Audio_ID
 1. Audio_ID: 1 supports Headphone and HD4600 HDMI audio (w/dsdt or ssdt)
@@ -36,8 +40,5 @@ bcc9
 RevoGirl rip
 
 toleda
-https://github.com/toleda/audio_ALC885
-README.txt
-Files:
-283.zip
+https://github.com/toleda/audio_ALC283
 
